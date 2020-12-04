@@ -43,6 +43,8 @@ function handleText(textNode)
 	v = v.replace(/\bThe economy\b/g, "Rich people's yacht money");
 	v = v.replace(/\bthe economy\b/g, "rich people's yacht money");
 	v = v.replace(/\bthe Economy\b/g, "rich people's yacht money");
+	v = v.replace(/\bEconomy\b/g, "Rich people's yacht money");
+	v = v.replace(/\beconomy\b/g, "rich people's yacht money");
 	
 	textNode.nodeValue = v;
 }
