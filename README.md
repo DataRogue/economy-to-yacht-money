@@ -7,10 +7,6 @@ Chrome extension that replaces occurrences of 'the economy' with 'rich people's 
 
 Fork of https://github.com/panicsteve/cloud-to-butt
 
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
 
 Installation
 ------------
